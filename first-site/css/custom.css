@@ -3,6 +3,13 @@ body {
   padding-top: 15px;
   padding-bottom: 30px;
 }
+a.navbar-brand{
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 30px;
+}
+ul.nav{
+  font-family: 'Arvo', courier, serif;
+}
 /*making the whole content of class jumbotron centered */
 .jumbotron{
   text-align: center;
@@ -18,4 +25,16 @@ body {
 .btn-lg{
   font-size: 12px;
 }
+
+/*
+    font-family: 'Poiret One', cursive;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Cabin Sketch', cursive;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-family: 'Bungee Inline', cursive;
+    font-family: 'Codystar', cursive;
+    font-family: 'Caesar Dressing', cursive;
+    font-family: 'Miltonian', cursive;
+   */
 
