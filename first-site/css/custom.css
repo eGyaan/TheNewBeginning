@@ -1,12 +1,21 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 30px;
 }
 /*making the whole content of class jumbotron centered */
 .jumbotron{
   text-align: center;
 }
-.btn-lg{
-  font-size: 15px;
+/* specifying Google Fonts in CSS */
+.jumbotron h1, h2{
+  font-family: 'Arvo', courier, serif;
 }
+.jumbotron p{
+  font-family: 'Poiret One', cursive;
+}
+
+.btn-lg{
+  font-size: 12px;
+}
+
